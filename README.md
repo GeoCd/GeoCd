@@ -26,14 +26,15 @@ Also a project enthusiast, I love creating and designing devices and machines fr
 
 ## 🔭 I’m currently working on:
 - Cleaning up my previous projects for documentation.
-- Strengthening my Python, SQL and ML knowlendge.
+- Strengthening my software and hardware skills.
 - Theophrastus AI Agent.
-- Working on designing and building a local weather station.
+- Working on designing and building an Open Weather System (Previously Local).
 
 ## 🌱 I’m currently learning:
 - Languages: Russian, Portuguese.
-- Programming languages: Java.
-- ML Libraries and frameworks.
+- Programming languages: C#.
+- Data Science.
+- Communication Protocols
 
 ## 📫 How to reach me:
 Mail: jorge.a.conde.j@gmail.com | Discord: georgec_03
