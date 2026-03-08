@@ -1,40 +1,81 @@
-# Hello there 👋, Jorge here.
+# Hey, I'm Jorge 👋
 
-Recent graduate from mechatronics engineering with a strong interest in Machine Learning, Deep Learning and Game Development. 
-Also a project enthusiast, I love creating and designing devices and machines from all engineering areas. Looking forward to share them all!
+Mechatronics Engineering graduate from IPN (UPIITA), based in Mexico City. I build things that sit at the intersection of hardware, software. Interested in IoT systems, embedded firmware, data pipelines and AI agents. I'm drawn to problems where you have to understand the full stack to solve them well.
 
-## 💻 Tech Stack:
+Currently looking for my first industry role in software development, data engineering, or IoT/embedded systems.
+
+---
+
+## 🔭 What I'm working on
+
+- **Muuyal** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration
+- **DS Climate Project** — weather prediction pipeline: scraping + ARIMA + dashboard (Power BI)
+- Documenting and cleaning up older projects for the portfolio
+
+---
+
+## 🛠️ Tech Stack
+
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frameworks & Libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![seaborn](https://img.shields.io/badge/seaborn-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Web**
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Hardware & Protocols**
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
-## 🔭 I’m currently working on:
-- Cleaning up my previous projects for documentation.
-- Strengthening my software and hardware skills.
-- Theophrastus AI Agent.
-- Working on designing and building an Open Weather System (Previously Local).
+**Tools & Platforms**
 
-## 🌱 I’m currently learning:
-- Languages: Russian, Portuguese.
-- Programming languages: C#.
-- Data Science.
-- Communication Protocols
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
 
-## 📫 How to reach me:
+---
+
+## 🌱 Currently learning
+
+- **Node.js** — backend JS to complement my web stack
+- **Networking** — TCP/IP, DNS, port forwarding, Ethernet on hands-on level (David Bombal course)
+- Intermediate Data Science — time series, pipelines, dashboards (Tableau)
+- Russian (slowly but seriously)
+
+---
+
+## 📫 Reach me
+
 Mail: jorge.a.conde.j@gmail.com | Discord: georgec_03
