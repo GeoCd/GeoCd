@@ -8,9 +8,10 @@ Currently looking for my first industry role in software development, data engin
 
 ## 🔭 What I'm working on
 
-- **Muuyal** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration
-- **DS Climate Project** — weather prediction pipeline: scraping + ARIMA + dashboard (Power BI)
-- Documenting and cleaning up older projects for the portfolio
+- **Muuyal** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration.
+- **DS Climate Project** — weather prediction pipeline: scraping + ARIMA + dashboard (Power BI).
+- Creating my user-friendly portfolio in Github Pages.
+- [DONE] Documenting and cleaning up older projects for the portfolio.
 
 ---
 
