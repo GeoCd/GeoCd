@@ -2,15 +2,15 @@
 
 Mechatronics Engineering graduate from IPN (UPIITA), based in Mexico City. I build things that sit at the intersection of hardware, software. Interested in IoT systems, embedded firmware, data pipelines and AI agents. I'm drawn to problems where you have to understand the full stack to solve them well.
 
-Currently looking for my first industry role in software development, data engineering, or IoT/embedded systems.
+Currently looking for my first industry role in software development, data engineering or IoT/embedded systems.
 
 ---
 
 ## 🔭 What I'm working on
 
-- **Muuyal** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration.
-- **DS Climate Project** — weather prediction pipeline: scraping + ARIMA + dashboard (Power BI).
+- **Open Weather Platform** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration.
 - Creating my user-friendly portfolio in Github Pages.
+- [DONE] **DS Climate Project** — weather prediction pipeline: scraping + ARIMA + dashboard (Power BI).
 - [DONE] Documenting and cleaning up older projects for the portfolio.
 
 ---
@@ -70,9 +70,9 @@ Currently looking for my first industry role in software development, data engin
 
 ## 🌱 Currently learning
 
-- **Node.js** — backend JS to complement my web stack
-- **Networking** — TCP/IP, DNS, port forwarding, Ethernet on hands-on level (David Bombal course)
-- Intermediate Data Science — time series, pipelines, dashboards (Tableau)
+- **Node.js** - backend JS to complement my web stack
+- **Networking** - TCP/IP, DNS, port forwarding, Ethernet on hands-on level (David Bombal course)
+- Intermediate Data Science — time series, pipelines, dashboards (Tableau, Power BI)
 - Russian (slowly but seriously)
 
 ---
