@@ -8,10 +8,9 @@ Currently looking for my first industry role in software development, data engin
 
 ## 🔭 What I'm working on
 
-- **Open Weather Platform** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration.
+- **Open Weather Platform** — distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration. Currently on server side.
 - Creating my user-friendly portfolio in Github Pages.
-- [DONE] **DS Climate Project** — weather prediction pipeline: scraping + ARIMA + dashboard (Power BI).
-- [DONE] Documenting and cleaning up older projects for the portfolio.
+- Mantaining my kaggle weather dataset.
 
 ---
 
@@ -58,8 +57,10 @@ Currently looking for my first industry role in software development, data engin
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
