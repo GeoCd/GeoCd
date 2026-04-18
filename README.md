@@ -11,7 +11,7 @@ Currently looking for my first industry role in software development, data engin
 - **Open Weather Platform**: distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration. Currently on development of the server side.
 - **Pocket Sage** & **Iris Project**: a local AI assistant running on a resource-constrained SBCs. Iris project aims to develop a framework for LLM tool accessibility.
 - Creating my user-friendly portfolio in Github Pages.
-- Mantaining my kaggle weather dataset: ![WeatherDataset](https://www.kaggle.com/datasets/jorgeaconde/historical-weather-in-mexico)
+- Mantaining my kaggle weather dataset: https://www.kaggle.com/datasets/jorgeaconde/historical-weather-in-mexico
 
 ---
 
