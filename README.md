@@ -4,7 +4,9 @@ Mechatronics Engineering graduate from IPN (UPIITA), based in Mexico City. I bui
 
 Currently looking for my first industry role in software development, data science or IA development.
 
-If you want to check out my portfolio with my main projects, visit my GithubPage: https://geocd.github.io/GeoCd.portfolio.io/
+If you want to check out my portfolio with my main projects, visit my GithubPage: 
+https://geocd.github.io/GeoCd.portfolio.io/
+
 ---
 
 ## 🔭 What I'm working on
