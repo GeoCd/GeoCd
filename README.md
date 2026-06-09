@@ -14,6 +14,7 @@ https://geocd.github.io/GeoCd.portfolio.io/
 - [ ] **Open Weather Platform**: distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration. Currently on development of the server side.
 - [ ] **Pocket Sage** & **Iris Project**: a local AI assistant running on a resource-constrained SBCs. Iris project aims to develop a framework for LLM tool accessibility.
 - [ ] **ML Forecasting Models**: A upgrade for my weather forecasting model for any state in Mexico. Also working on a financial forecasting model.
+- [ ] **ALISKRON Foundations**: Create the foundations of ALISKRON community project, for me and collaborators to develop tools and show our work.
 - [X] Creating my user-friendly portfolio in Github Pages.
 - [X] Mantaining my kaggle weather dataset: https://www.kaggle.com/datasets/jorgeaconde/historical-weather-in-mexico
 
