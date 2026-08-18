@@ -2,7 +2,7 @@
 
 Mechatronics Engineering graduate from IPN (UPIITA), based in Mexico City. I build things that sit at the intersection of hardware, software. Interested in IoT systems, embedded firmware, data pipelines and AI agents. I'm drawn to problems where you have to understand the full stack to solve them well.
 
-Currently looking for my first industry role in software development, IA development or DevOps.
+Currently looking for my first industry role in IA development or DevOps.
 
 If you want to check out my portfolio with my main projects in a more friendly way, visit my GithubPage!: 
 https://geocd.github.io/GeoCd.portfolio.io/
@@ -12,9 +12,9 @@ https://geocd.github.io/GeoCd.portfolio.io/
 ## 🔭 What I'm working on
 
 - [ ] **Open Weather Platform**: distributed IoT weather platform with ESP32 sensor nodes, MQTT pipeline, time series forecasting and open data integration. Currently on development of the server side.
-- [ ] **Pocket Sage** & **Iris Project**: a local AI assistant running on a resource-constrained SBCs. Iris project aims to develop a framework for LLM tool accessibility.
-- [ ] **ML Forecasting Models**: A upgrade for my weather forecasting model for any state in Mexico. Also working on a financial forecasting model.
-- [ ] **ALISKRON Foundations**: Create the foundations of ALISKRON community project, for me and collaborators to develop tools and show our work.
+- [ ] **Iris Project**: a local AI assistant running on a resource-constrained SBCs. Iris project aims to develop a framework for LLM tool accessibility.
+- [ ] **ALISKRON Website**: Create the foundations of ALISKRON community project, for me and collaborators to develop tools and show our work.
+- [X] **ML Forecasting Models**: A upgrade for my weather forecasting model for any state in Mexico. 
 - [X] Creating my user-friendly portfolio in Github Pages.
 - [X] Mantaining my kaggle weather dataset: https://www.kaggle.com/datasets/jorgeaconde/historical-weather-in-mexico
 
