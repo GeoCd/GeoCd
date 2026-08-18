@@ -82,7 +82,7 @@ https://geocd.github.io/GeoCd.portfolio.io/
 
 - **Networking** - TCP/IP, DNS, port forwarding, Ethernet on hands-on level (David Bombal course)
 - **Docker/Kubernetes** - Intermediate level
-- Intermediate Data Science — time series, pipelines, dashboards (Tableau, Power BI), ANN, RNN, CNN, Transformers, OCR
+- **AWS/EKS** 
 - Russian/Portuguese (slowly but seriously)
 
 ---
